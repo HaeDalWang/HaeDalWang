@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[https://www.credly.com/badges/d06190ab-cb59-407f-8566-883b7e339539/public_url
-](https://github.com/HaeDalWang/seungdobae)https://github.com/HaeDalWang/seungdobae
+(https://github.com/HaeDalWang/seungdobae)[https://github.com/HaeDalWang/seungdobae]
