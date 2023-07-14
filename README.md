@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **HaeDalWang/HaeDalWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.credly.com/badges/d06190ab-cb59-407f-8566-883b7e339539/public_url
+[https://www.credly.com/badges/d06190ab-cb59-407f-8566-883b7e339539/public_url
+](https://github.com/HaeDalWang/seungdobae)https://github.com/HaeDalWang/seungdobae
