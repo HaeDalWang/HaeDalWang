@@ -7,11 +7,3 @@
 <img src="https://img.shields.io/badge/Terraform-gray?style=plastic&logo=terraform&logoColor=7B42BC"/>
   
 </div>
-
----
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HaeDalWang&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaeDalWang&layout=compact&theme=github_dark)
-
-
-
