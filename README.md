@@ -4,6 +4,8 @@
 <!-- 직무 및 핵심 역량 요약 -->
 - Cloud & DevOps Engineer
 - Infrastructure as Code (IaC) 및 컨테이너 오케스트레이션 기반 퍼블릭 클라우드 인프라 설계 및 운영
+- 엔터프라이즈 고객사(MSP) 프라이빗 환경 중심의 아키텍처 구축 및 대규모 마이그레이션 수행
+- AI 프롬프트 엔지니어링, 에이전트 개발 및 워크플로우 자동화 파이프라인 구축
 
 ## Tech Stack
 <!-- 기존 사용자의 배지 코드를 보존하고 카테고리화 적용 -->
@@ -16,8 +18,23 @@
   <img src="https://img.shields.io/badge/Ansible-gray?style=plastic&logo=ansible&logoColor=EE0000"/>
 </div>
 
-## GitHub Stats
-<!-- anuraghazra/github-readme-stats API를 활용하여 깃허브 활동 통계를 동적으로 출력하는 카드 -->
+## Key Projects
+<!-- 퍼블릭 통계의 약점을 보완하기 위해 주요 레포지토리를 직접 시각화 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaeDalWang&show_icons=true&theme=transparent&hide_border=true&title_color=326CE5&icon_color=326CE5&text_color=A0A0A0" alt="HaeDalWang's GitHub Stats" />
+  <a href="https://github.com/HaeDalWang/k8s-upgrade-skills">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaeDalWang&repo=k8s-upgrade-skills&theme=transparent&hide_border=true&title_color=326CE5&icon_color=326CE5&text_color=A0A0A0" alt="k8s-upgrade-skills" />
+  </a>
+  <a href="https://github.com/HaeDalWang/KubeScout">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaeDalWang&repo=KubeScout&theme=transparent&hide_border=true&title_color=326CE5&icon_color=326CE5&text_color=A0A0A0" alt="KubeScout" />
+  </a>
+  <a href="https://github.com/HaeDalWang/eks-terraform-examples">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaeDalWang&repo=eks-terraform-examples&theme=transparent&hide_border=true&title_color=326CE5&icon_color=326CE5&text_color=A0A0A0" alt="eks-terraform-examples" />
+  </a>
+</div>
+
+## GitHub Stats
+<!-- 랭크를 숨기고(hide_rank=true), 프라이빗 커밋을 포함하며(count_private=true), 언어 통계로 대체하여 시각적 효과 유지 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaeDalWang&show_icons=true&theme=transparent&hide_border=true&title_color=326CE5&icon_color=326CE5&text_color=A0A0A0&hide_rank=true&count_private=true" alt="HaeDalWang's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaeDalWang&layout=compact&theme=transparent&hide_border=true&title_color=326CE5&text_color=A0A0A0" alt="Top Languages" />
 </div>
