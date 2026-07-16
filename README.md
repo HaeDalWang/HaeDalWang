@@ -16,17 +16,3 @@
   <img src="https://img.shields.io/badge/Terraform-gray?style=plastic&logo=terraform&logoColor=7B42BC"/>
   <img src="https://img.shields.io/badge/Ansible-gray?style=plastic&logo=ansible&logoColor=EE0000"/>
 </div>
-
-## Key Projects
-<div align="center">
-  <a href="https://github.com/HaeDalWang/k8s-upgrade-skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaeDalWang&repo=k8s-upgrade-skills&theme=transparent&hide_border=true&title_color=326CE5&icon_color=326CE5&text_color=A0A0A0" alt="k8s-upgrade-skills" />
-  </a>
-</div>
-
-## GitHub Stats
-<!-- 랭크를 숨기고(hide_rank=true), 프라이빗 커밋을 포함하며(count_private=true), 언어 통계로 대체하여 시각적 효과 유지 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaeDalWang&show_icons=true&theme=transparent&hide_border=true&title_color=326CE5&icon_color=326CE5&text_color=A0A0A0&hide_rank=true&count_private=true" alt="HaeDalWang's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaeDalWang&layout=compact&theme=transparent&hide_border=true&title_color=326CE5&text_color=A0A0A0" alt="Top Languages" />
-</div>
