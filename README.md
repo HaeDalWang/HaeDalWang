@@ -19,13 +19,4 @@
   <img src="https://img.shields.io/badge/Docker-gray?style=plastic&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/Terraform-gray?style=plastic&logo=terraform&logoColor=7B42BC"/>
   <img src="https://img.shields.io/badge/Ansible-gray?style=plastic&logo=ansible&logoColor=EE0000"/>
-  <img src="https://img.shields.io/badge/agentskills?style=plastic&logo=agentskills&logoColor=EE0000"/>
-  <img src="https://img.shields.io/badge/opentelemetry?style=plastic&logo=opentelemetry&logoColor=EE0000"/>
-  <img src="https://img.shields.io/badge/fluentd?style=plastic&logo=fluentd&logoColor=EE0000"/>
-  <img src="https://img.shields.io/badge/prometheus?style=plastic&logo=prometheus&logoColor=EE0000"/>
-  <img src="https://img.shields.io/badge/grafana?style=plastic&logo=grafana&logoColor=EE0000"/>
-  <img src="https://img.shields.io/badge/keycloak?style=plastic&logo=keycloak&logoColor=EE0000"/>
-  <img src="https://img.shields.io/badge/argo?style=plastic&logo=argo&logoColor=EE0000"/>
-  <img src="https://img.shields.io/badge/opensearch?style=plastic&logo=opensearch&logoColor=EE0000"/>
 </div>
-
