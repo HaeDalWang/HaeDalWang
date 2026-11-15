@@ -10,4 +10,4 @@ Lately I build tools that make AI coding agents (Claude Code, Codex, Kiro) cheap
 ### Infra
 - **[poc-env](https://github.com/HaeDalWang/poc-env)** — EKS / Kubernetes PoC collection.
 
-Writing: [seungdobae.com](https://seungdobae.com)
+Portfolio / résumé (Korean): [seungdobae.com](https://seungdobae.com)
