@@ -1,22 +1,13 @@
-# HaeDalWang
+# Hi, I'm Seungdo
 
-## About Me
-- Cloud & DevOps Engineer
-- MSP사 엔지니어
-- 가장 처리 많이하는 기술 스택: Terraform, AWS, kubernetes
-- 요즘은 Litellm, Agent Skill만들기, 자동화 관심이 많음
+Cloud & DevOps engineer at an AWS MSP in Seoul — Terraform, EKS, and Kubernetes upgrades by day.
+Lately I build tools that make AI coding agents (Claude Code, Codex, Kiro) cheaper and more predictable to run.
 
-## Site
-[seungdobae.com
-](https://seungdobae.com/overview)
+### Building
+- **[kcal](https://github.com/HaeDalWang/kcal)** — macOS menu bar app: see what your agent loads at startup and how much usage limit is left. Local only.
+- **[k8s-upgrade-skills](https://github.com/HaeDalWang/k8s-upgrade-skills)** — Agent skills for Kubernetes version upgrades (EKS, Kubespray), phase-gated.
 
-## Tech Stack 
-사용해본 모든 기술 스택
-<div align="left">
-  <h3>Infrastructure & Orchestration</h3>
-  <img src="https://img.shields.io/badge/Kubernetes-gray?style=plastic&logo=kubernetes&logoColor=326CE5"/>
-  <img src="https://img.shields.io/badge/EKS-gray?style=plastic&logo=amazoneks&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Docker-gray?style=plastic&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/Terraform-gray?style=plastic&logo=terraform&logoColor=7B42BC"/>
-  <img src="https://img.shields.io/badge/Ansible-gray?style=plastic&logo=ansible&logoColor=EE0000"/>
-</div>
+### Infra
+- **[poc-env](https://github.com/HaeDalWang/poc-env)** — EKS / Kubernetes PoC collection.
+
+Writing: [seungdobae.com](https://seungdobae.com)
