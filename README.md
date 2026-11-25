@@ -5,7 +5,7 @@ Lately I build tools that make AI coding agents (Claude Code, Codex, Kiro) cheap
 
 ### Building
 - **[kcal](https://github.com/HaeDalWang/kcal)** — macOS menu bar app: see what your agent loads at startup and how much usage limit is left. Local only.
-- **[k8s-upgrade-skills](https://github.com/HaeDalWang/k8s-upgrade-skills)** — Agent skills for Kubernetes version upgrades on EKS, phase-gated.
+- **[eks-upgrade-skills](https://github.com/HaeDalWang/eks-upgrade-skills)** — Agent skills for Kubernetes version upgrades on EKS, phase-gated.
 
 ### Infra
 - **[poc-env](https://github.com/HaeDalWang/poc-env)** — EKS / Kubernetes PoC collection.
